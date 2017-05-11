@@ -1,0 +1,18 @@
+{
+  "name": "sav-suite-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cv": "sav-cli -p interface -d contract -v ../client/src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logger": "^2.0.1",
+    "koa-static-cache": "^5.0.1",
+    "sav": "0.0.3"
+  }
+}

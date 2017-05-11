@@ -1,0 +1,19 @@
+{
+  "name": "sav-suite",
+  "version": "1.0.0",
+  "description": "suite for sav",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jetiny@github.com/savjs/sav-suite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savjs/sav-suite/issues"
+  },
+  "homepage": "https://github.com/savjs/sav-suite#readme"
+}
