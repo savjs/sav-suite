@@ -34,3 +34,4 @@ router.declare(Composer(Contract, Action))
 
 app.use(router.compose())
 app.listen(port)
+console.log(`server http://localhost:${port}`)
