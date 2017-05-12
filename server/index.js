@@ -5,7 +5,7 @@ const logger = require('koa-logger')
 const bodyParser = require('koa-bodyparser')
 const staticCache = require('koa-static-cache')
 
-const {Router, plugins, Composer} = require('../../../')
+const {Router, plugins, Composer} = require('sav')
 const Action = require('./action')
 const Contract = require('./contract')
 
